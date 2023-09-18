@@ -9,6 +9,9 @@ I'll make a new YouTube video based on this project and there will be a link to 
 
 ### Using Manim's BarChart Class
 Manim's `BarChart` class does most of the heavy-lifting for my purposes. I only had to make a for-loop to animate the chaning values and the resulting animation is pretty nice. Here is a snippet of what I created with a puppy weight dataset:
+
+https://youtu.be/9hykkWQaj3Y
+
 ![Bar chart race with puppy weights](./_readme_files/AnimatedBarChartWithImages.mp4)
 
 ## Installing Manim
