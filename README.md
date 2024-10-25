@@ -3,7 +3,8 @@
 A while ago, I made a YouTube video about bar chart animations using a [Matplotlib-based library](https://youtu.be/9hqGRehzEsI?si=zs9AtEbiplEue32U) and now wish to recreate the project using Manim.
 In case you prefer to read, I also wrote a blog post about how to install and use Manim here:
 
-https://andresberejnoi.com/using-manim-and-python-to-create-animations-like-3blue1brown/
+[https://andresberejnoi.com/blog/using-manim-and-python-to-create-animations-like-3blue1brown/
+](https://andresberejnoi.com/blog/using-manim-and-python-to-create-animations-like-3blue1brown/)
 
 I'll make a new YouTube video based on this project and there will be a link to the blog post here.
 
